@@ -45,6 +45,7 @@ manages secure sessions between consumers and providers and routes prompts and r
 2. Extract the zip to a local folder (examples)
    
    `unzip morpheus-lumerin-node.zip`
+   
    `cd morpheus-lumerin-node`
 
 3.  Edit the `.env` file following the guide below [proxy-router .ENV Variables](#proxy-router-env-variables) 
